@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/kidleon/桌面/WebServer_improve/build/src",
+  "command": "/usr/bin/g++   -I/home/kidleon/桌面/WebServer_improve/include  -g -g   -o CMakeFiles/Webserver.dir/config.cpp.o -c /home/kidleon/桌面/WebServer_improve/src/config.cpp",
+  "file": "/home/kidleon/桌面/WebServer_improve/src/config.cpp"
+},
+{
+  "directory": "/home/kidleon/桌面/WebServer_improve/build/src",
+  "command": "/usr/bin/g++   -I/home/kidleon/桌面/WebServer_improve/include  -g -g   -o CMakeFiles/Webserver.dir/http_conn.cpp.o -c /home/kidleon/桌面/WebServer_improve/src/http_conn.cpp",
+  "file": "/home/kidleon/桌面/WebServer_improve/src/http_conn.cpp"
+},
+{
+  "directory": "/home/kidleon/桌面/WebServer_improve/build/src",
+  "command": "/usr/bin/g++   -I/home/kidleon/桌面/WebServer_improve/include  -g -g   -o CMakeFiles/Webserver.dir/log.cpp.o -c /home/kidleon/桌面/WebServer_improve/src/log.cpp",
+  "file": "/home/kidleon/桌面/WebServer_improve/src/log.cpp"
+},
+{
+  "directory": "/home/kidleon/桌面/WebServer_improve/build/src",
+  "command": "/usr/bin/g++   -I/home/kidleon/桌面/WebServer_improve/include  -g -g   -o CMakeFiles/Webserver.dir/lst_timer.cpp.o -c /home/kidleon/桌面/WebServer_improve/src/lst_timer.cpp",
+  "file": "/home/kidleon/桌面/WebServer_improve/src/lst_timer.cpp"
+},
+{
+  "directory": "/home/kidleon/桌面/WebServer_improve/build/src",
+  "command": "/usr/bin/g++   -I/home/kidleon/桌面/WebServer_improve/include  -g -g   -o CMakeFiles/Webserver.dir/main.cpp.o -c /home/kidleon/桌面/WebServer_improve/src/main.cpp",
+  "file": "/home/kidleon/桌面/WebServer_improve/src/main.cpp"
+},
+{
+  "directory": "/home/kidleon/桌面/WebServer_improve/build/src",
+  "command": "/usr/bin/g++   -I/home/kidleon/桌面/WebServer_improve/include  -g -g   -o CMakeFiles/Webserver.dir/sql_connection_pool.cpp.o -c /home/kidleon/桌面/WebServer_improve/src/sql_connection_pool.cpp",
+  "file": "/home/kidleon/桌面/WebServer_improve/src/sql_connection_pool.cpp"
+},
+{
+  "directory": "/home/kidleon/桌面/WebServer_improve/build/src",
+  "command": "/usr/bin/g++   -I/home/kidleon/桌面/WebServer_improve/include  -g -g   -o CMakeFiles/Webserver.dir/webserver.cpp.o -c /home/kidleon/桌面/WebServer_improve/src/webserver.cpp",
+  "file": "/home/kidleon/桌面/WebServer_improve/src/webserver.cpp"
+}
+]
